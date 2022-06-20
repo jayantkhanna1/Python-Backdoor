@@ -1,19 +1,24 @@
 # Python backdoor V1
 
-<p>This project is a cross-platform (Windows/Linux/android) open source, backdoor and uses reverse http request, which contains many features. It's made using Python 3</p>
+<p>This project is a cross-platform (Windows/Linux/android) open source, backdoor and uses reverse http request to make connections between host and slave. It's made using Python 3</p>
 
 # Installation
 
 ### Prerequisities
-Should have python version 3.9.* and above
+<ul>
+<li>Should have python version 3.9.* and above</li>
+<li>Contact me on this mail to ask access for this backdoor : <a href="mailto:jayantkhanna3105@gmail.com">jayantkhanna3105@gmail.com</a></li>
+<li>Visit this website to get in touch with me through multiple more ways <a href="https://jayantkhanna.herokuapp.com/">jayantkhanna.herokuapp.com</a></li>
+</ul>
 
 ### Install
 ```
-    git clone "https://github.com/jayantkhanna1/backdoor.git"
+    git clone "<Git link will be provided after permission is taken>"
 ```
-Then enter folder and run following commands:
+Then run following commands:
 
 ```
+    cd backdoor
     pip install pipwin
     pipwin install pyaudio
     pip install -r requirements.txt
@@ -21,7 +26,9 @@ Then enter folder and run following commands:
 Software is now installed 
 
 ### Usage
+
 Get your local Ip address:
+
 #### For windows
 ```
 ipconfig
@@ -101,4 +108,5 @@ If all goes well when remote host double clicks executable file (some name.exe) 
 <p>This program is for educational purposes only. I take no responsibility or liability for own personal use. You are not allowed to edit this software in any form</p>
 
 # Terms and condition for use
-coming soon
+You are not allowed to use or modify this code for any illegal purpose that includes but is not limited to, Modifying code to make Ransomeware, Hacking user for any personal gain, Hacking someone without their knowledge, Targeting an Organization. In case of any such event your information (which is being recorded) will be provided to respected authorities
+
