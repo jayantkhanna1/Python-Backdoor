@@ -84,13 +84,11 @@ If all goes well when remote host double clicks executable file (some name.exe) 
 <li>Always up untill user chooses to end backdoor on remote host</li>
 <li>Get OS details</li>
 <li>Open remote host's camera remotely</li>
-<li>Open remote host's microphone remotely *</li>
-<li>Screen share remote host's screen remotely *</li>
-<li>Shutdown remote host's computer remotely *</li>
-<li>Inbuilt keylogger *</li>
-<li>Encrypt/Decrypt files/folder *</li>
+<li>Screen share remote host's screen remotely </li>
+<li>Shutdown remote host's computer remotely</li>
+<li>Inbuilt keylogger </li>
+<li>Encrypt/Decrypt files/folder </li>
 </ul>
-<p>Features with '*' are not yet present will be added soon</p>
 
 # Plans for future Versions:
 <ul>
